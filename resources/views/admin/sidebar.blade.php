@@ -3,7 +3,7 @@
     <a href="/admin/dashboard" class="brand-link">
         <img src="{{ asset('dist/img/AdminLTELogo.png') }}" alt="Shoes Logo" class="brand-image img-circle elevation-3"
             style="opacity: .8">
-        <span class="brand-text font-weight-light">Shoes Shop</span>
+        <span class="brand-text font-weight-light">test</span>
     </a>
     <!-- Sidebar -->
     <div class="sidebar">
